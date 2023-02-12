@@ -1,2 +1,0 @@
-# jungproject
-시험
